@@ -11,4 +11,4 @@ NB. Dit is momenteel nog in de test fase, er kan her en der nog wat veranderen ;
 
 # contact
 
-Breyten Ernsting <breyten@opensatte.eu>
+Breyten Ernsting <breyten@openstate.eu>

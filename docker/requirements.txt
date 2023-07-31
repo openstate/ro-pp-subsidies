@@ -1,2 +1,4 @@
 csv-diff
 csvkit
+requests
+lxml

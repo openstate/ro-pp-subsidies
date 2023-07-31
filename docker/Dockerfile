@@ -1,6 +1,6 @@
 FROM python:3
 
-WORKDIR /opt/as
+WORKDIR /opt/ro
 
 COPY requirements.txt ./
 RUN pip install --no-cache-dir -r requirements.txt

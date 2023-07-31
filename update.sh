@@ -2,6 +2,10 @@
 cd /opt/ro
 rm -f message.txt
 touch message.txt
+
+GITHUB_PERSONAL_TOKEN=xxx
+git pull https://${GITHUB_PERSONAL_TOKEN}@github.com/openstate/ro-pp-subsidies.git master
+
 ODS_LINK=`./get-link.py`
 wget -q -O tmp-subsidies.ods "$ODS_LINK"
 libreoffice --convert-to csv tmp-subsidies.ods
@@ -17,5 +21,5 @@ git add subsidies.csv
 git config --global user.email "developers@openstate.eu"
 git config --global user.name "OpenState Devs"
 git commit -F message.txt && \
-              git push https://${GITHUB_PERSONAL_TOKEN}@github.com/openstate/ro-pp-subsidies.git master \
+              git push -q https://${GITHUB_PERSONAL_TOKEN}@github.com/openstate/ro-pp-subsidies.git master \
               || true

@@ -1,11 +1,11 @@
 Overzicht giften van € 10.000 en hoger aan politieke partijen 2023,,,,,,
 ,,,,,,
 Politieke partij,Giften van € 10.000 en hoger ontvangen?,Totaalbedrag,,,,
-VVD,Ja.,1471585,,,,
-D66,Ja.,412798,,,,
+VVD,Ja.,1501585,,,,
+D66,Ja.,512798,,,,
 PVV,Ja.,15000,,,,
 CDA,Ja.,70000,,,,
-PvdA,Nee.,0,,,,
+PvdA,Nee.,25000,,,,
 SP,Ja.,"478210,23",,,,
 GroenLinks,Ja.,"563457,22",,,,
 Partij voor de Dieren,Ja.,"64909,35",,,,
@@ -13,14 +13,14 @@ ChristenUnie,Ja.,39786,,,,
 Forum voor Democratie,Ja.,"132500,01",,,,
 SGP,Nee.,0,,,,
 DENK,Nee.,0,,,,
-Volt,Ja.,46043,,,,
+Volt,Ja.,66043,,,,
 JA21,Nee.,0,,,,
 BVNL,Nee.,85000,,,,
 50PLUS,Nee.,0,,,,
 BIJ1,Nee.,0,,,,
 OPNL,Nee.,0,,,,
 BBB,Ja.,10000,,,,
-Totaal,,"3389288,81",,,,
+Totaal,,"3564288,81",,,,
 ,,,,,,
 Toelichting op overzicht:,,,,,,
 1) Van de gegevens over het adres van een natuurlijk persoon wordt uitsluitend de woonplaats openbaar gemaakt.,,,,,,
@@ -39,6 +39,7 @@ VVD,,75000,Lin Bun B.V.,"Watercipresstraat 11, 1326 CM  Almere",75000,09/15/2023
 VVD,,15000,Loo Investments I B.V.,"Loolaan 83, 7314 AH Apeldoorn",15000,09/28/2023
 VVD,,10000,Wetzels B.V.,"Coba Pulskensdreef 11, 4904 WB OOSTERHOUT",10000,10/02/2023
 VVD,,50000,Steurstaete B.V.,"Industrieweg 19, 4731 SB Oudenbosch",50000,10/07/2023
+VVD,,30000,Bestuurdersvereniging van de VVD,"Postbus 30836, 2500 GV Den Haag",30000,10/15/2023
 VVD,Stichting Ondersteuning VVD Tweede Kamer-verkiezing (SOV),25000,E.A. Nijkerk,Wassenaar,25000,02/17/2023
 VVD,Stichting Ondersteuning VVD Tweede Kamer-verkiezing (SOV),50000,R. Thielen,Monaco,50000,08/29/2023
 VVD,Stichting Ondersteuning VVD Tweede Kamer-verkiezing (SOV),50000,Yip Holding ,"Dam 3-7, 1012 JS Amsterdam ",50000,08/30/2023
@@ -72,10 +73,13 @@ D66,,10330,A. Mulder,Schoten (België),10000,09/25/2023
 D66,,50000,R. Defares,Den Haag,50000,10/02/2023
 D66,,47000,M. Witteveen,Den Haag,40000,10/01/2023
 D66,,100000,Stichting The Dreamery Foundation,"Hof van Zevenbergen 1A, 5211 HB 's Hertogenbosch",100000,10/11/2023
+D66,,100000,R. Defares,Den Haag,50000,10/02/2023
+D66,,,R. Defares,Den Haag,50000,10/18/2023
 PVV,,15000,Piegretia B.V.,Oostvoornelaan 26 2554 BH Den Haag,15000,08/04/2023
 CDA,,10000,H.O.C.R. Ruding,Den Haag,10000,01/04/2023
 CDA,,10000,E. Venghaus,Leidschendam,10000,06/22/2023
 CDA,CDA Businessclub,50000,Keurvorst B.V.,"P.O. box 150, 3700 AD Zeist",50000,05/10/2023
+PvdA,,25000,J.C.H. Bakker,Bentveld,25000,10/14/2023
 SP,,"44091,37",L.G. van den Bergh en E.F.A. van Buitenen,Utrecht,"24592,5",03/13/2023
 SP,,,L.G. van den Bergh en E.F.A. van Buitenen,Utrecht,"18682,5",04/06/2023
 SP,,"11148,41",A. Sprong,Almere,,
@@ -176,6 +180,8 @@ Volt,,15323,Aquaviento B.V.,"Noorderven 61, 1504 AL Zaandam",15323,03/08/2023
 Volt,,10000,Ribbink Van den Hoek Familie Stichting,"Bernard Zweerskade 1, 1077 TX Amsterdam",10000,07/24/2023
 Volt,,10000,A.D. Mulder,Schoten (België),10000,08/08/2023
 Volt,,10720,L. Dassen,Den Haag,,
+Volt,,10000,Direct Voltage Holding B.V.,"De Muzen 26, 1431 XP Aalsmeer",10000,10/13/2023
+Volt,,10000,Van den Hoff Beheer B.V.,"Kerckeboschlaan 39, 3708 XH Zeist",10000,10/18/2023
 BVNL,,10000,Wizard Ventures BV ,"Rondehoep 52 A, 1191 KM Ouderkerk",10000,09/12/2023
 BVNL,,50000,Chipshol 2000 B.V.,"Boeingavenue 250 , 1119 PZ Schiphol-Rijk",50000,10/09/2023
 BVNL,,25000,Sjopperdepop BV,"Palletweg 32, 2031 DB Haarlem",25000,10/11/2023

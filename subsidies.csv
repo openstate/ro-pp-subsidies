@@ -2,15 +2,15 @@ Overzicht giften van € 10.000 en hoger aan politieke partijen 2023,,,,,,
 ,,,,,,
 Politieke partij,Giften van € 10.000 en hoger ontvangen?,Totaalbedrag,,,,
 VVD,Ja.,1511585,,,,
-D66,Ja.,462798,,,,
+D66,Ja.,512897,,,,
 PVV,Ja.,15000,,,,
 CDA,Ja.,70000,,,,
-PvdA,Ja.,45000,,,,
+PvdA,Ja.,55000,,,,
 SP,Ja.,"666192,88",,,,
 GL,Ja.,"708791,39",,,,
 PvdD,Ja.,"64909,35",,,,
 CU,Ja.,49905,,,,
-FvD,Ja.,"240900,01",,,,
+FvD,Ja.,"290900,01",,,,
 SGP,Nee.,0,,,,
 DENK,Nee.,0,,,,
 Volt,Ja.,151043,,,,
@@ -20,7 +20,7 @@ BVNL,Ja.,115000,,,,
 BIJ1,Nee.,0,,,,
 OPNL,Nee.,0,,,,
 BBB,Ja.,10000,,,,
-Totaal,,"4111124,63",,,,
+Totaal,,"4221223,63",,,,
 ,,,,,,
 Toelichting op overzicht:,,,,,,
 1) Van de gegevens over het adres van een natuurlijk persoon wordt uitsluitend de woonplaats openbaar gemaakt.,,,,,,
@@ -69,18 +69,22 @@ D66,,10000,F. Lavooy,Rotterdam,10000,09/21/2023
 D66,,15000,J. Baak,Soest,10000,09/21/2023
 D66,,10330,J. Winter,Amsterdam,10000,09/21/2023
 D66,,16660,A. van Marwijk Kooy,Amsterdam,15000,09/21/2023
-D66,,28000,Persimmons BV,"Nieuwe Gracht 45, 2011 ND Haarlem",25000,09/25/2023
+D66,,53000,Persimmons BV,"Nieuwe Gracht 45, 2011 ND Haarlem",25000,09/25/2023
+D66,,,Persimmons BV,"Nieuwe Gracht 45, 2011 ND Haarlem",25000,11/13/2023
 D66,,10330,A. Mulder,Schoten (België),10000,09/25/2023
-D66,,47000,M. Witteveen,Den Haag,40000,10/01/2023
+D66,,57000,M. Witteveen,Den Haag,40000,10/01/2023
+D66,,,M. Witteveen,Den Haag,10000,11/07/2023
 D66,,100000,Stichting The Dreamery Foundation,"Hof van Zevenbergen 1A, 5211 HB 's Hertogenbosch",100000,10/11/2023
 D66,,100000,R. Defares,Den Haag,50000,10/02/2023
 D66,,,R. Defares,Den Haag,50000,10/18/2023
+D66,,15099,J. Backer,Den Haag,10000,11/07/2023
 PVV,,15000,Piegretia B.V.,Oostvoornelaan 26 2554 BH Den Haag,15000,08/04/2023
 CDA,,10000,H.O.C.R. Ruding,Den Haag,10000,01/04/2023
 CDA,,10000,E. Venghaus,Leidschendam,10000,06/22/2023
 CDA,CDA Businessclub,50000,Keurvorst B.V.,"P.O. box 150, 3700 AD Zeist",50000,05/10/2023
 PvdA,,25000,J.C.H. Bakker,Bentveld,25000,10/14/2023
 PvdA,,20000,Stichting The Dreamery Foundation,"Hof van Zevenbergen 1A,  5211 HB 's Hertogenbosch",20000,10/19/2023
+PvdA,,10000,H. Luyks ,Soest,10000,11/09/2023
 SP,,"44091,37",L.G. van den Bergh en E.F.A. van Buitenen,Utrecht,"24592,5",03/13/2023
 SP,,,L.G. van den Bergh en E.F.A. van Buitenen,Utrecht,"18682,5",04/06/2023
 SP,,"11148,41",A. Sprong,Almere,,
@@ -206,7 +210,8 @@ FvD,,15000,Piegretia B.V.,"Oostvoornelaan 26, 2554 BH Den Haag",15000,08/04/2023
 FvD,,10000,"SalesFlo, h.o.d.n. Goodbye BigTech","Marialaan 2, 6576 BJ Ooij",10000,10/06/2023
 FvD,,10000,Verwarmings Techniek Ede B.V.,"Hoefweg 12, 6717 LS Ede",10000,10/24/2023
 FvD,,48400,Chipshol 2000 BV,"Boeingavenue 250, 1119PZ Schiphol-Rijk",48400,10/26/2023
-FvD,,50000,F. Richartz,Nijmegen,50000,11/02/2023
+FvD,,100000,F. Richartz,Nijmegen,50000,11/02/2023
+FvD,,,F. Richartz,Nijmegen,50000,11/07/2023
 Volt,,15323,Aquaviento B.V.,"Noorderven 61, 1504 AL Zaandam",15323,03/08/2023
 Volt,,10000,Ribbink Van den Hoek Familie Stichting,"Bernard Zweerskade 1, 1077 TX Amsterdam",10000,07/24/2023
 Volt,,20000,A.D. Mulder,Schoten (België),10000,08/08/2023

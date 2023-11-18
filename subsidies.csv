@@ -1,8 +1,8 @@
 Overzicht giften van € 10.000 en hoger aan politieke partijen 2023,,,,,,
 ,,,,,,
 Politieke partij,Giften van € 10.000 en hoger ontvangen?,Totaalbedrag,,,,
-VVD,Ja.,1511585,,,,
-D66,Ja.,512897,,,,
+VVD,Ja.,1561585,,,,
+D66,Ja.,523577,,,,
 PVV,Ja.,15000,,,,
 CDA,Ja.,70000,,,,
 PvdA,Ja.,55000,,,,
@@ -10,17 +10,17 @@ SP,Ja.,"666192,88",,,,
 GL,Ja.,"708791,39",,,,
 PvdD,Ja.,"64909,35",,,,
 CU,Ja.,49905,,,,
-FvD,Ja.,"290900,01",,,,
-SGP,Nee.,0,,,,
+FvD,Ja.,"340900,01",,,,
+SGP,Nee.,26300,,,,
 DENK,Nee.,0,,,,
 Volt,Ja.,151043,,,,
 JA21,Nee.,0,,,,
-BVNL,Ja.,115000,,,,
+BVNL,Ja.,140000,,,,
 50PLUS,Nee.,0,,,,
 BIJ1,Nee.,0,,,,
 OPNL,Nee.,0,,,,
 BBB,Ja.,10000,,,,
-Totaal,,"4221223,63",,,,
+Totaal,,"4383203,63",,,,
 ,,,,,,
 Toelichting op overzicht:,,,,,,
 1) Van de gegevens over het adres van een natuurlijk persoon wordt uitsluitend de woonplaats openbaar gemaakt.,,,,,,
@@ -62,6 +62,7 @@ VVD,Stichting Ondersteuning VVD Tweede Kamer-verkiezing (SOV),53000,Van den Twee
 VVD,Stichting Ondersteuning VVD Tweede Kamer-verkiezing (SOV),50000,Smits & Smits B.V. ,"Steenstraat 70, 5831 JH Boxmeer ",50000,09/28/2023
 VVD,Stichting Ondersteuning VVD Tweede Kamer-verkiezing (SOV),28000,All Safe Management ,"Chocoladeweg 6, 1381 DA Weesp ",28000,09/29/2023
 VVD,Stichting Ondersteuning VVD Tweede Kamer-verkiezing (SOV),13000,Navara Group B.V. ,"Hoofdstraat 244, 3972 LK Driebergen-Rijsenburg ",13000,10/01/2023
+VVD,Stichting Ondersteuning VVD Tweede Kamer-verkiezing (SOV),50000,Focus on Impact ,"Parklaan 48, 5613 BG Eindhoven ",50000,11/14/2023
 D66,,11999,A. van Huffelen,Utrecht,,
 D66,,13479,C M J C. Pauw-van Doormalen,Den Haag,,
 D66,,100000,S. van der Heijden,Amsterdam,100000,09/15/2023
@@ -78,6 +79,7 @@ D66,,100000,Stichting The Dreamery Foundation,"Hof van Zevenbergen 1A, 5211 HB '
 D66,,100000,R. Defares,Den Haag,50000,10/02/2023
 D66,,,R. Defares,Den Haag,50000,10/18/2023
 D66,,15099,J. Backer,Den Haag,10000,11/07/2023
+D66,,10680,R. de Jong,Amsterdam,10500,11/15/2023
 PVV,,15000,Piegretia B.V.,Oostvoornelaan 26 2554 BH Den Haag,15000,08/04/2023
 CDA,,10000,H.O.C.R. Ruding,Den Haag,10000,01/04/2023
 CDA,,10000,E. Venghaus,Leidschendam,10000,06/22/2023
@@ -212,6 +214,9 @@ FvD,,10000,Verwarmings Techniek Ede B.V.,"Hoefweg 12, 6717 LS Ede",10000,10/24/2
 FvD,,48400,Chipshol 2000 BV,"Boeingavenue 250, 1119PZ Schiphol-Rijk",48400,10/26/2023
 FvD,,100000,F. Richartz,Nijmegen,50000,11/02/2023
 FvD,,,F. Richartz,Nijmegen,50000,11/07/2023
+FvD,,50000,Sensemakers BV,"Achterwerf 305, 1367 DD Almere",50000,11/14/2023
+SGP,,16300,Montagebedrijf Hardeman van Harten B.V.,"Lage Veldweg 10, 6741 JL Lunteren",16300,11/14/2023
+SGP,,10000,Bincx B.V.,"De Bonkelaar 7, 3774 SB Kootwijkerbroek",10000,11/14/2023
 Volt,,15323,Aquaviento B.V.,"Noorderven 61, 1504 AL Zaandam",15323,03/08/2023
 Volt,,10000,Ribbink Van den Hoek Familie Stichting,"Bernard Zweerskade 1, 1077 TX Amsterdam",10000,07/24/2023
 Volt,,20000,A.D. Mulder,Schoten (België),10000,08/08/2023
@@ -223,10 +228,11 @@ Volt,,27500,Van Goethem Internet Ventures B.V.,"Amstel 93, 1018 EL Amsterdam",25
 Volt,,20000,Stichting Shuksan,"Noorderven 61, 1504 AL Zaandam",20000,10/23/2023
 Volt,,10000,V.M. Swinkels,Amsterdam,10000,10/26/2023
 Volt,,17500,M.M.M. Dreesmann,Amsterdam,15000,10/28/2023
-BVNL,,10000,Wizard Ventures BV ,"Rondehoep 52 A, 1191 KM Ouderkerk",10000,09/12/2023
+BVNL,,20000,Wizard Ventures BV ,"Rondehoep 52 A, 1191 KM Ouderkerk aan de Amstel",10000,09/12/2023
+BVNL,,,Wizard Ventures BV,"Rondohoep 52A, 1191 KM Ouderkerk aan de Amstel",10000,10/29/2023
 BVNL,,50000,Chipshol 2000 B.V.,"Boeingavenue 250 , 1119 PZ Schiphol-Rijk",50000,10/09/2023
 BVNL,,25000,Sjopperdepop BV,"Palletweg 32, 2031 DB Haarlem",25000,10/11/2023
-BVNL,,10000,Wizard Ventures BV,"Rondohoep 52A, 1191 KM Ouderkerk aan de Amstel",10000,10/29/2023
 BVNL,,10000,W.R. van Haga,Haarlem,10000,10/29/2023
 BVNL,,10000,Horeca Beheer B.V,"Leenderbos 48, 1447 TV Purmerend",10000,11/03/2023
+BVNL,,25000,Stichting Dona,"Boeingavenue 250, 1119 PZ Schiphol-Rijk",25000,11/01/2023
 BBB,,10000,VDE Holding BV,"Langewijk 328, 7701 AP Dedemsvaart",10000,07/09/2023

@@ -9,7 +9,7 @@ from lxml import etree
 import lxml
 
 def main(argv):
-    page_url = 'https://www.rijksoverheid.nl/onderwerpen/democratie/documenten/jaarverslagen/2023/01/27/overzicht-substantiele-giften-aan-politieke-partijen-2023'
+    page_url = 'https://www.rijksoverheid.nl/onderwerpen/democratie/documenten/jaarverslagen/2024/01/11/overzicht-substantiele-giften-aan-politieke-partijen-2024'
     html = etree.HTML(requests.get(page_url).content)
     doc_link = [l.attrib['href'] for l in html.findall('.//a') if l.attrib['href'].endswith('.ods')]
     full_doc_link = urljoin(page_url, doc_link[0])

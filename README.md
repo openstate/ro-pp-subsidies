@@ -5,10 +5,13 @@ Hier maken we inzichtelijk welke updates er in het overzicht gemaakt zijn.
 
 NB. Dit is momenteel nog in de test fase, er kan her en der nog wat veranderen ;)
 
-# running
+# Running
+- Copy `update.sh.example` to `update.sh` and fill in your GitHub token
+- `cd docker && docker-compose up -d`
+- Add a cronjob for `update.sh`
 
-`cd docker && docker-compose up -d` and remember to run `update.sh` in the container every once in a while
+# Instructies
+Wijzig elk jaar de URL in `get-link.py`. Bekijk [deze pagina voor de nieuwe URL](https://www.rijksoverheid.nl/onderwerpen/democratie/documenten?trefwoord=+Overzicht+substanti%C3%ABle+giften+aan+politieke+partijen&startdatum=&einddatum=&onderwerp=Alle+onderwerpen&onderdeel=Alle+ministeries&type=Alle+documenten).
 
-# contact
-
+# Contact
 Breyten Ernsting <breyten@openstate.eu>

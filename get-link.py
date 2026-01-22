@@ -10,7 +10,7 @@ import lxml
 
 def main(argv):
     # NOTE: deze URL moet elk jaar aangepast worden!
-    page_url = 'https://www.rijksoverheid.nl/onderwerpen/democratie/documenten/jaarverslagen/2025/01/31/overzicht-substantiele-giften-aan-politieke-partijen-2025'
+    page_url = 'https://www.rijksoverheid.nl/onderwerpen/democratie/documenten/jaarverslagen/2026/01/21/overzicht-substantiele-giften-aan-politieke-partijen-2026'
     html = etree.HTML(requests.get(page_url).content)
     doc_link = [l.attrib['href'] for l in html.findall('.//a') if l.attrib['href'].endswith('.ods')]
     full_doc_link = urljoin(page_url, doc_link[0])
